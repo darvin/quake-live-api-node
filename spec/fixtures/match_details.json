@@ -1,0 +1,136 @@
+
+    {
+        "ECODE": 0, 
+        "capturelimit": 8, 
+        "fraglimit": 20, 
+        "g_bluescore": 7, 
+        "g_customSettings": "18882751", 
+        "g_gamestate": "IN_PROGRESS", 
+        "g_instagib": 0, 
+        "g_levelstarttime": 1355795285, 
+        "g_needpass": 0, 
+        "g_redscore": 5, 
+        "game_type": 4, 
+        "game_type_title": "Clan Arena", 
+        "host_address": "69.174.243.26:27026", 
+        "host_name": "Mr_Brojangles", 
+        "location_id": 6, 
+        "map": "hellsgate", 
+        "map_title": "Hell's Gate", 
+        "max_clients": 16, 
+        "num_clients": 10, 
+        "num_players": 9, 
+        "owner": "mr_brojangles", 
+        "players": [
+            {
+                "bot": 0, 
+                "clan": "", 
+                "model": "ranger", 
+                "name": "mr_brojangles", 
+                "rank": 1, 
+                "score": 241, 
+                "sub_level": 2, 
+                "team": 1
+            }, 
+            {
+                "bot": 0, 
+                "clan": "", 
+                "model": "doom/default", 
+                "name": "5l4y3r", 
+                "rank": 1, 
+                "score": 9, 
+                "sub_level": 0, 
+                "team": 1
+            }, 
+            {
+                "bot": 0, 
+                "clan": "", 
+                "model": "slash/sport_blue", 
+                "name": "ajaxykins", 
+                "rank": 1, 
+                "score": 134, 
+                "sub_level": 0, 
+                "team": 2
+            }, 
+            {
+                "bot": 0, 
+                "clan": "E-MC2", 
+                "model": "bitterman", 
+                "name": "m_z_h", 
+                "rank": 1, 
+                "score": 205, 
+                "sub_level": 0, 
+                "team": 2
+            }, 
+            {
+                "bot": 0, 
+                "clan": "^2e^6.^20", 
+                "model": "uriel/default", 
+                "name": "jitannihilator", 
+                "rank": 1, 
+                "score": 91, 
+                "sub_level": 0, 
+                "team": 1
+            }, 
+            {
+                "bot": 0, 
+                "clan": "", 
+                "model": "doom/blue", 
+                "name": "shadow99", 
+                "rank": 1, 
+                "score": 6, 
+                "sub_level": 0, 
+                "team": 2
+            }, 
+            {
+                "bot": 0, 
+                "clan": "^2e^6.^20", 
+                "model": "ranger", 
+                "name": "qsold", 
+                "rank": 1, 
+                "score": 61, 
+                "sub_level": 2, 
+                "team": 1
+            }, 
+            {
+                "bot": 0, 
+                "clan": "L0RD!", 
+                "model": "xaero/default", 
+                "name": "fragme3", 
+                "rank": 1, 
+                "score": 79, 
+                "sub_level": 0, 
+                "team": 2
+            }, 
+            {
+                "bot": 0, 
+                "clan": "", 
+                "model": "uriel/zael", 
+                "name": "gambitofrbc", 
+                "rank": 1, 
+                "score": 0, 
+                "sub_level": 0, 
+                "team": 3
+            }, 
+            {
+                "bot": 0, 
+                "clan": "", 
+                "model": "orbb/default", 
+                "name": "darvin_s_k_2", 
+                "rank": 1, 
+                "score": 0, 
+                "sub_level": 0, 
+                "team": 2
+            }
+        ], 
+        "premium": 0, 
+        "public_id": 688917, 
+        "ranked": 0, 
+        "roundlimit": 10, 
+        "roundtimelimit": 180, 
+        "ruleset": "1", 
+        "scorelimit": "150", 
+        "skillDelta": -1, 
+        "teamsize": 5, 
+        "timelimit": 0
+    }

@@ -1,0 +1,29 @@
+{
+  "name": "quake-live-api",
+  "preferGlobal": "false",
+  "version": "0.0.1",
+  "author": "Sergey Klimov <sergey.v.klimov@gmail.com>",
+  "description": "Quake Live API library",
+  "contributors": [ 
+    {
+      "name": "Sergey Klimov",
+      "email": "sergey.v.klimov@gmail.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darvin/quake-live-api-node.git"
+  },
+  "keywords": [
+    "quake",
+    "game"
+  ],
+  "dependencies" : {
+  },
+  "analyze": false,
+  "devDependencies": {
+    "jasmine-node"    :  "*",
+    "uglify-js" :"*"
+  },
+  "license": "MIT"
+}
