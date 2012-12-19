@@ -4,11 +4,8 @@
   "version": "0.0.1",
   "author": "Sergey Klimov <sergey.v.klimov@gmail.com>",
   "description": "Quake Live API library",
-  "contributors": [ 
-    {
-      "name": "Sergey Klimov",
-      "email": "sergey.v.klimov@gmail.com"
-    } 
+  "contributors": [
+    "Sergey Klimov <sergey.v.klimov@gmail.com>"
   ],
   "repository": {
     "type": "git",
@@ -18,12 +15,20 @@
     "quake",
     "game"
   ],
-  "dependencies" : {
-  },
+  "dependencies": {},
   "analyze": false,
   "devDependencies": {
-    "jasmine-node"    :  "*",
-    "uglify-js" :"*"
+    "jasmine-node": "*",
+    "request": "*"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "63582719a0f20d0969aa1cf5fb717e8a7786370f",
+  "directories" : {
+      "lib" : "./lib"
+    },
+  "main": "./lib/quake_live_api.coffee",
+  "scripts": {
+    "test": "jasmine-node --coffee spec/"
+  }
 }
