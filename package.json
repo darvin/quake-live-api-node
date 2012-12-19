@@ -29,7 +29,10 @@
   "readmeFilename": "README.md",
   "gitHead": "63582719a0f20d0969aa1cf5fb717e8a7786370f",
 
-  "main": "./lib/quake_live_api.js",
+  "directories": {
+    "lib": "./lib/"
+  },
+  "main": "./lib/quake_live_api",
   "scripts": {
     "test": "jasmine-node --coffee spec/",
     "prepublish": "cake build",
