@@ -24,11 +24,12 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "gitHead": "63582719a0f20d0969aa1cf5fb717e8a7786370f",
-  "directories" : {
-      "lib" : "./lib"
-    },
+
   "main": "./lib/quake_live_api.coffee",
   "scripts": {
     "test": "jasmine-node --coffee spec/"
-  }
+    },
+  "engines": {
+      "node": "*"
+    }
 }
