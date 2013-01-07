@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/darvin/quake-live-api-node.png)](https://travis-ci.org/darvin/quake-live-api-node)
+
+
 quake-live-api-node
 ===================
 
